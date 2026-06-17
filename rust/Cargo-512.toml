@@ -1,0 +1,12 @@
+[package]
+name = "kyber512rust"
+version = "0.1.0"
+edition = "2021"
+
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+pqc_kyber = {version = "0.7.1", features = ["std", "kyber512"]}
+rand = "0.8.5"

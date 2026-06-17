@@ -1,0 +1,8 @@
+pycryptodome 
+matplotlib
+flask
+requests
+paramiko
+pandas
+python-dotenv
+

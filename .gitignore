@@ -1,0 +1,10 @@
+Makefiles/
+*Zone.Identifier*
+*drawio*
+__pycache__/
+build/
+data.json
+rust/target/
+*.csv
+.venv
+*.lock
